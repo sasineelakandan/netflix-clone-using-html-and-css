@@ -186,7 +186,14 @@ li{
     height: 200px;
     width: 23%;
     margin-top: 10px;
+    transition: 0.3s ease;
+  
 
+}
+.box1:hover{
+    transform: scale(1.1);
+    border: 2px solid red;
+    
 }
 .MOVIES{
     margin-top: 20px;
